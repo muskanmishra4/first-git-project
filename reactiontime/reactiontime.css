@@ -1,0 +1,16 @@
+#box{
+  height: 100px;
+  width: 100px;
+  display: block;
+  background-color: #A65A74 ;
+  position: relative;
+  left: 50px;
+  top: 150px;
+}
+
+#circle{
+  height: 100px;
+  width: 100px;
+  border-radius: 50%;
+
+}
